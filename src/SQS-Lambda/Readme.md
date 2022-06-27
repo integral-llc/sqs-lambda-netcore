@@ -49,3 +49,8 @@ Deploy function to AWS Lambda
     cd "SQS-Lambda/src/SQS-Lambda"
     dotnet lambda deploy-function
 ```
+
+[Twilio Pricing](https://www.twilio.com/sms/pricing/us)
+```
+0.0079 / SMS
+```
