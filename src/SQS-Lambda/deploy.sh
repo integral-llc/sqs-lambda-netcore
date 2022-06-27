@@ -1,0 +1,1 @@
+dotnet lambda deploy-function UA-queue-and-sms-sender --profile ig
